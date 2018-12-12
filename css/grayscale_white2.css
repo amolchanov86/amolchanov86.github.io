@@ -221,6 +221,8 @@ small.authors {
 
 .intro {
     display: table;
+/*    width: 100vw;
+    height: auto;*/
     width: 100%;
     height: auto;
     padding: 100px 0;
